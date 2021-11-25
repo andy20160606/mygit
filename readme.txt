@@ -14,3 +14,8 @@ first time
 sec time
 
 thr time
+
+
+for time
+
+fri time
