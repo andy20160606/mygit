@@ -42,11 +42,3 @@ a
 pick-a
 
 pick-b
-
-a
-
-b
-
-a
-
-b
